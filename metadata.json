@@ -1,0 +1,7 @@
+{
+  "name": "Municipal Works Media Assistant",
+  "description": "An interactive prototype for municipal work crews to report progress and automatically generate news articles for the municipality's website.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
